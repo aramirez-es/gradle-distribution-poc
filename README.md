@@ -1,5 +1,7 @@
 # Gradle Custom Distribution PoC
 
+![](https://github.com/aramirez-es/gradle-distribution-poc/workflows/CI/badge.svg)
+
 This is a PoC which aims to create a [Custom Gradle Distribution](https://docs.gradle.org/current/userguide/organizing_gradle_projects.html#sec:custom_gradle_distribution)
 which would reduce duplication of common configurations needed usually inside mid to big corporations  — specially in a
 microservices ecosystem which ends up in tons of repositories, along with standardisation of tasks through plugins
