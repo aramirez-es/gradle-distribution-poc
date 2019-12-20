@@ -40,7 +40,7 @@ defined in the distribution.
 ## Further Read
 
 - [Gradle's Init Scripts](https://docs.gradle.org/current/userguide/init_scripts.html)
-- [https://github.com/gradle/gradle/issues/1262
+- https://github.com/gradle/gradle/issues/1262
 - https://github.com/gradle/gradle/issues/1322
 
 
