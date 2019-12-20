@@ -44,11 +44,11 @@ defined in the distribution.
 - https://github.com/gradle/gradle/issues/1322
 
 
-## License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
 
 
-## Acknowledgement
+## Acknowledgement
 
 I got inspired by [John Carter -- warlordofmars](https://github.com/warlordofmars/warlordofmars-gradle)
